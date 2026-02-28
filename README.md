@@ -1,4 +1,4 @@
-HTML Moringa-Labs!
+HTML Moringa-Labs(AWS CLOUD NOTES)!!!!
 
 - This will help you for quick revision before exam.
 - If you are studying for AWS Cloud Practitioner certifications or you already have them but want to have digital notes of what you studied, here it is and you can come back as many times as you need. I share the notes I used to study and pass my exam.
